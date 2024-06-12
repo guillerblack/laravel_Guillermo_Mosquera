@@ -18,7 +18,7 @@ class EmpleadoController extends Controller
             ->addIndexColumn()
             ->make(true);
         }
-        return view('index');
+        return view('empleado.index');
     }
 
     public function store(Request $request)

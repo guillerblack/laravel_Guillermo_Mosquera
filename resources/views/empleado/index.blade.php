@@ -50,6 +50,8 @@
             </div>
             <div class="pull-right mb-2">
                 <a class="btn btn-primary" onClick="add()" href="javascript:void(0)"> Crear Empleado</a>
+                <a class="btn btn-primary" onClick="add()" href="cursos">cursos</a>
+
             </div>
         </div>
     </div>
